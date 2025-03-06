@@ -1,0 +1,6 @@
+streamlit
+opencv-python
+requests
+fastapi
+cloudinary
+dotenv
