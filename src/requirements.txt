@@ -3,4 +3,5 @@ opencv-python
 requests
 fastapi
 cloudinary
+uvicorn==0.22.0
 dotenv
